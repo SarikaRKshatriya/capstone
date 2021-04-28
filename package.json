@@ -1,0 +1,25 @@
+{
+  "name": "medicare",
+  "version": "1.0.0",
+  "description": "Online Shopping(E-commerce)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.13.2",
+    "mongoose": "4.7.6",
+    "mongodb": "^2.2.33",
+    "morgan": "~1.6.1",
+    "body-parser": "~1.14.1",
+    "method-override": "~2.3.5",
+    "bootstrap": "^4.1.1",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "jquery": "^3.3.1",
+    "nodemon": "^1.17.5",
+    "popper": "^1.0.1"
+  }
+}
